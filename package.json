@@ -1,0 +1,25 @@
+{
+  "name": "DateFacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daxxon/DateFacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daxxon/DateFacts/issues"
+  },
+  "homepage": "https://github.com/Daxxon/DateFacts#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
+}
